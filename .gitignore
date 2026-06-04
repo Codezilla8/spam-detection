@@ -1,1 +1,5 @@
 spam-classification.py
+venv/
+__pycache__/
+.ipynb_checkpoints/
+data/
